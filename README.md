@@ -1,2 +1,2 @@
-# notebooks
-Jupiter notebooks
+# Jupyter Notebooks Practices
+Jupyter notebooks
